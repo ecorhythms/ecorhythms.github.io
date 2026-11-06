@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EcoRhythms Lab"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: People
+        href: people.qmd
+      - text: Open Science Commons
+        href: open-science.qmd
+      - text: Updates
+        href: updates.qmd
+  page-footer:
+    center: "EcoRhythms Lab | Ecosystem Physiology and Dynamics"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+
+
+

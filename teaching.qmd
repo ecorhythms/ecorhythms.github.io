@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+## Courses taught
+***NRES 218 Introduction to geospatial technologies***
+
+![Students in the fall 2025 cohort take a selfie from the sky as [drones debut in geospatial technology class](https://news.unl.edu/article/drones-debut-in-geospatial-technology-class-0?utm_source=newsletter&utm_medium=email&utm_content=format_default&utm_campaign=newsletter_2025-12-10).](images/updates/drone218.png){#fig-drone218}
+
+***NRES 415/815 GIS for agriculture and natural resources***
+
+***NRES 896 Special topics: Digital image processing and analysis in remote sensing***
+
+## Course material (Open Educational Resource)
+**Wang, R.**, Li, X., Husa, A. (2026) Mapping the world: An open textbook on GIS and remote sensing. Open Education Resources: Textbooks and Related Materials. https://digitalcommons.unl.edu/oerbooks/4/. Available at:https://open-spatial-science.github.io/intro-gis-rs/. [[*link*]](https://open-spatial-science.github.io/intro-gis-rs/)
+
+## Course portfolio
+**Wang, R.** (2026). A student-centered GIS classroom: Second chances and real-world practice. Teaching Portfolio for NRES218 Introduction to Geospatial Technologies. UNL Faculty Course Portfolios. 261. https://digitalcommons.unl.edu/prtunl/261. [[*link*]](https://digitalcommons.unl.edu/prtunl/261)
